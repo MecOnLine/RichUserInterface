@@ -2,3 +2,4 @@
 .project
 .classpath
 chime.mp3
+/target/
